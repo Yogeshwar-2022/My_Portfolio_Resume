@@ -1,0 +1,99 @@
+[
+  
+  {
+    "name": "MY_PORTFOLIO ",
+    "desc": "Creating portfolio using HTML CSS JAVASCRIPT AND jQuery",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  
+  {
+    "name": "Apparel Product Recommendation ",
+    "desc": "Feature Engineering and built a content-based recommendation system using Python, BoW, TF-IDF, Word2Vec, NLP.",
+    "image": "apreal_recom",
+    "category": "Machine-Learning",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Yogeshwar-2022/Apparel_Product_Recommendation_System?search=1"
+    }
+  },
+  {
+    "name": "Face Recognition System",
+    "desc": "K Nearest Neighbour classification algorithm in face recognition using OpenCV and HaarCascades CNN  Model for frontal face detection.",
+    "image": "FaceRecognition",
+    "category": "Data-Science",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Yogeshwar-2022/Face_Recognition_System"
+    }
+  },
+  {
+    "name": "Twitter Clone: Social platform",
+    "desc": "Developed a platform where everyone can post their tweet which can be shown to followers. developed using HTML, CSS, JavaScript, Postgres, Spring MVC.",
+    "image": "twitter_clone",
+    "category": "Java-Full-Stack",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Wikipedia Fetcher Api",
+    "desc": "Developed a platform to query over Wikipedia. API can help to get basic information for any query.developed using HTML, CSS, JavaScript, Spring MVC",
+    "image": "WikipediaFetcherApi",
+    "category": "Java-Full-Stack",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "word2vec",
+    "desc": "Word2Vec is a machine learning model that learns word embeddings, representing words, enabling semantic relationships and similarities between words to be captured.",
+    "image": "word2vec",
+    "category": "Machine-Learning",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  
+  {
+    "name": "Dominant Color Extraction in Image",
+    "desc": "Dominant Color Extraction for Image Segmentation using k-means clustering.",
+    "image": "dominant_color",
+    "category": "Data-Science",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Yogeshwar-2022/machine_learning_module/tree/main/7.%20Dominant%20color%20extraction%20for%20image%20segmentation"
+    }
+  },
+  {
+    "name": "Invisible cloack from harry potter",
+    "desc": "Invisible cloack from harry potter using opencv",
+    "image": "invisble-cloack",
+    "category": "Data-Science",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Yogeshwar-2022/machine_learning_module/tree/main/11.%20Invisible%20cloack%20from%20harry%20potter%20using%20opencv"
+    }
+  },
+  {
+    "name": "Automate tinder and linkdln",
+    "desc": "build automate tinder and linkdln in just 5 min",
+    "image": "automaticTInder",
+    "category": "Data-Science",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Yogeshwar-2022/machine_learning_module/tree/main/10.%20automate%20tinder%20and%20linkdln%20in%20just%205%20min"
+    }
+  }
+  
+  
+
+  
+]
